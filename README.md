@@ -6,11 +6,7 @@ An AI-powered mobile app that analyzes your face shape, skin tone, and hair text
 
 ## Demo
 
-> _Add a screenshot or screen recording here. Drag an image into this section or run `xcrun simctl io booted screenshot screenshot.png` to capture the iOS Simulator._
-
-```
-[ Welcome Screen ] → [ Selfie Camera ] → [ AI Analysis ] → [ Results + Recommendations ]
-```
+![App screens: Welcome, Camera, and Results](assets/screenshots/preview.svg)
 
 ---
 
